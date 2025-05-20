@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Backend Web skills**
 
-- 👨‍💻 All of my projects are available at [Aca Va el Versel de mi Portfolio](Aca Va el Versel de mi Portfolio)
-
 - 💬 Ask me about **Javascript and React**
 
 - 📫 How to reach me **jeretardivo1992@gmail.com**
